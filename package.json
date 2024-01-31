@@ -1,0 +1,22 @@
+{
+  "name": "dangling-css",
+  "version": "1.0.0",
+  "description": "CLI utility to check for unused CSS classes",
+  "main": "unusedCssChecker.js",
+  "bin": {
+    "unused-css-checker": "./unusedCssChecker.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "parse5": "^6.0.1",
+    "css-tree": "^1.0.0",
+    "commander": "^8.0.0"
+  }
+}
+
