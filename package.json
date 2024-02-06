@@ -1,6 +1,6 @@
 {
   "name": "dangling-css",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "CLI utility to check for unused CSS classes",
   "main": "index.js",
   "bin": {
